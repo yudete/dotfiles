@@ -18,3 +18,5 @@
 [user]
 	name = yudete
 	email = yu@yude.moe
+[color]
+	ui = auto
