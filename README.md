@@ -1,5 +1,5 @@
-# [yudete](https://github.com/yudete) / dotfiles
+# dotfiles
 my . files
 
 ## .gitconfig
-g—p‚·‚éÛ‚Íƒtƒ@ƒCƒ‹–¼‚ğ `.gitconfig` ‚É•ÏX‚µ‚Äƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚Éİ’u‚·‚éB
+ä½¿ç”¨ã™ã‚‹éš›ã¯ãƒ•ã‚¡ã‚¤ãƒ«åã‚’ `.gitconfig` ã«å¤‰æ›´ã—ã¦ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«è¨­ç½®ã™ã‚‹ã€‚
