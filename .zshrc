@@ -11,3 +11,8 @@ source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
     autoload -Uz compinit
     compinit
   fi
+
+PROMPT='%~ %# '
+
+alias gcc='/usr/local/bin/gcc-10'
+alias cl='clear'
